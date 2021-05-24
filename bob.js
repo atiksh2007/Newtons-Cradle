@@ -13,7 +13,7 @@ class bob
 		this.r=r
 		
 		this.body=Bodies.circle(this.x, this.y, (this.r)/2, options)
-		this.image=loadImage("g.ball.png")
+		//this.image=loadImage("g.ball.png")
 		World.add(world, this.body);
 
 	}
