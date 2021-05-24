@@ -67,7 +67,7 @@ function draw() {
   fill("pink");
   textSize(55)
   text("NEWTON’S CRADLE",150,100);
-  text()
+ 
   
   
  
